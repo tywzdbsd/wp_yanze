@@ -1,0 +1,87 @@
+/*
+ * Portfolio Gallery
+ */
+
+#ishyoboy_portfolio_images_box .inside {
+	margin: 0;
+	padding: 0;
+}
+
+#portfolio_images_container ul li.image img,
+#portfolio_images_container ul li.ishyoboy-sortable-placeholder img {
+	width: 100%;
+	height: auto;
+	display: block;
+}
+
+#portfolio_images_container ul li.image,
+#portfolio_images_container ul li.ishyoboy-sortable-placeholder {
+	width: 80px;
+	height: 80px;
+	overflow: hidden;
+	float: left;
+	cursor: move;
+	border: 1px solid #d5d5d5;
+	margin: 9px 9px 0 0;
+	background: #f7f7f7;
+	position: relative;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+#portfolio_images_container {
+	margin-left: 9px;
+}
+
+#ishyoboy_portfolio_images_box .add_portfolio_images,
+#ishyoboy_portfolio_images_box #ishyoboy_images_upload,
+#ishyoboy_portfolio_images_box .additional_description{
+	margin: 9px 0 0 9px;
+}
+
+#ishyoboy_portfolio_images_box .box_description,
+#ishyoboy_portfolio_images_box .box_name{
+	display: none;
+}
+
+#portfolio_images_container ul {
+	overflow: hidden;
+	margin: 0;
+	padding: 0;
+}
+
+#portfolio_images_container ul ul.actions li a{
+	color: #ff0000;
+	text-decoration: none;
+	display: block;
+	padding: 0;
+	margin: 0;
+}
+
+#portfolio_images_container ul ul.actions li {
+	width: 100%;
+	display: block;
+	overflow: hidden;
+	position: absolute;
+	bottom: -16px;
+	z-index: 50;
+	background: #fff;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	line-height: 16px;
+}
+
+/*
+ * Slides - Slide Settings
+ */
+#slides_urls #_ishmb_slide_url_boxitem #_ishmb_slide_url {
+	box-sizing: border-box;
+	width: 100%;
+}
+
+#slides_urls #_ishmb_slide_url_nw_boxitem #_ishmb_slide_url_nw {
+	float: left;
+	margin-right: 5px;
+}

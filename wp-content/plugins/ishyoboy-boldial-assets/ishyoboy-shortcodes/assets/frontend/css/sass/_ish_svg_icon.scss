@@ -1,0 +1,162 @@
+// Vars
+$margin: 10px;
+$link-opacity: 0.5;
+
+
+.ish-sc_svg_icon {
+
+	// General
+	display: inline-block;
+	vertical-align: top;
+
+	& + .ish-sc_svg_icon {
+		margin-left: $margin;
+	}
+
+	/**/position: relative;
+
+	// Last child
+	&:last-child {
+		margin-right: 0;
+	}
+
+
+	// Icon
+	span span {
+		width: 40px;
+		height: 40px;
+		display: block;
+		background-size: auto 100%;
+		background-repeat: no-repeat;
+		background-position: center center;
+	}
+
+
+	// Type
+	&.ish-square {
+		@extend %_rounded-corners;
+
+		a {
+			@extend %_rounded-corners;
+		}
+
+		span span {
+			background-size: 65% 65%;
+		}
+	}
+
+	&.ish-circle {
+		-moz-border-radius: 50%;
+		-webkit-border-radius: 50%;
+		border-radius: 50%;
+
+		a {
+			-moz-border-radius: 50%;
+			-webkit-border-radius: 50%;
+			border-radius: 50%;
+		}
+
+		span span {
+			background-size: 55% 55%;
+		}
+	}
+
+	&.ish-hexagon, &.ish-hexagon_rounded {
+
+		svg {
+			z-index: 0;
+			position: absolute;
+			width: 40px;
+			height: 40px;
+			left: 0;
+
+			polygon, path {
+				// fill
+				@extend %_trans-on;
+			}
+		}
+
+		span {
+			position: relative;
+			z-index: 1;
+			display: block;
+
+			span {
+				background-size: 55% 55%;
+			}
+		}
+	}
+
+
+	// Glow effect
+	&.ish-square.ish-glow, &.ish-circle.ish-glow, &.ish-hexagon.ish-glow > span, &.ish-hexagon.ish-glow a > span, &.ish-hexagon_rounded.ish-glow > span, &.ish-hexagon_rounded.ish-glow a > span {
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-size: auto 100%;
+	}
+
+	&.ish-square.ish-glow, &.ish-circle.ish-glow {
+		background-image: url('../images/svgs/square-circle-glow-bg.svg');
+	}
+
+	&.ish-hexagon.ish-glow > span, &.ish-hexagon.ish-glow a > span {
+		background-image: url('../images/svgs/hexagon-glow-bg.svg');
+	}
+
+	&.ish-hexagon_rounded.ish-glow > span, &.ish-hexagon_rounded.ish-glow a > span {
+		background-image: url('../images/svgs/hexagon_rounded-glow-bg.svg');
+	}
+
+
+	// Clickable
+	a {
+		display: block;
+		border-bottom: none !important;
+		@extend %_trans-on;
+	}
+
+	&.ish-simple {
+		a {
+			&:hover {
+				opacity: $link-opacity;
+			}
+		}
+	}
+
+	&.ish-hexagon, &.ish-hexagon_rounded {
+		a {
+			svg {
+				@extend %_trans-on;
+			}
+		}
+	}
+
+
+	// Alignment
+	&.ish-left {
+		float: left;
+	}
+
+	&.ish-center {
+		display: table;
+		margin: 0 auto;
+	}
+
+	&.ish-right {
+		float: right;
+		margin-right: 0;
+		margin-left: $margin;
+
+		&:last-child {
+			margin-left: 0;
+		}
+	}
+
+}
+
+
+// Column alignment
+.wpb_column.ish-right .wpb_wrapper .ish-sc_svg_icon {
+	margin-right: 0;
+	margin-left: $margin;
+}

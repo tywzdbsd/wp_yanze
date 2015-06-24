@@ -1,0 +1,43 @@
+// Vars
+.ish-sc_image {
+	.wp-caption{
+		text-align: center;
+	}
+
+	&.ish-fullwidth{
+		img {
+			width: 100%;
+			height: auto;
+		}
+		.wp-caption{
+			max-width: initial !important;
+		}
+	}
+}
+
+.ish-sc_image.ish-left{
+	float:left; margin:0 1em 1em 0 !important;
+}
+
+.ish-sc_image.ish-right{
+	float:right; margin:0 0 1em 1em !important;
+}
+
+.ish-sc_image.ish-center{
+	display: block; margin-left: auto; margin-right: auto !important;
+	text-align: center;
+
+	.wp-caption{
+		margin-left: auto; margin-right: auto;
+	}
+}
+
+.ish-sc_image.ish-rounded img{
+	-moz-border-radius: 50%;
+	-webkit-border-radius: 50%;
+	border-radius: 50%;
+}
+
+a.ish-sc_image {
+	display: inline-block;
+}

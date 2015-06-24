@@ -1,0 +1,53 @@
+/*
+ * Sidebar navigation
+ */
+
+.ish-sc_menu {
+
+	ul {
+		margin: 0;
+		padding: 0;
+		list-style: none;
+	}
+
+	li{
+		margin: 0 0 5px 0 !important;
+
+		a{
+			width: 100%;
+			display: inline-block;
+			text-decoration: none;
+			padding: 6px 10px;
+			font-weight: 500;
+			font-size: 15px;
+
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			box-sizing: border-box;
+
+			@extend %_rounded-corners;
+		}
+
+		ul{
+			margin-top: 5px;
+
+			a{
+				padding-left: 20px;
+			}
+
+			ul{
+				a{
+					padding-left: 40px;
+				}
+
+				ul{
+					a{
+						padding-left: 60px;
+					}
+				}
+			}
+
+		}
+	}
+
+}

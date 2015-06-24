@@ -1,0 +1,91 @@
+.ish-sc_list {
+
+	// Default style without custom icon
+	&.ish-noicon {
+		li {
+			&:before {
+				position: relative;
+				top: -2px;
+				margin-right: 10px;
+				content: '\e816';
+				font-family: "ish-fontello";
+				font-size: 6px;
+				line-height: 5px;
+			}
+		}
+
+		// iconic li first child
+		> ul, > ol {
+			> li {
+				margin-left: -16px;
+			}
+		}
+	}
+
+
+	> ul, ol {
+		// General
+		margin: 0;
+		padding: 0 0 0 20px;
+
+
+		// Custom icons
+		li {
+			list-style: none;
+
+			// iconic li
+			&[class^="ish-icon"],&[class*=" ish-icon"],&[class*="icon-"] {
+
+				// Custom icon
+				&:before {
+					font-size: 12px;
+					position: relative;
+					top: -1px;
+					margin-right: 10px;
+				}
+			}
+		}
+
+		> li {
+			// iconic li first child
+			&[class^="ish-icon"],&[class*=" ish-icon"],&[class*="icon-"] {
+				margin-left: -20px;
+			}
+		}
+
+		ul {
+			padding: 0 0 0 20px;
+		}
+	}
+
+	ol {
+		counter-reset: my-counter;
+
+		li, [class^="ish-icon"], [class*=" ish-icon"] {
+			list-style: none;
+
+			&:before {
+				content: counter(my-counter) '.' !important;
+				counter-increment: my-counter !important;
+				font-size: 10px !important;
+				margin: 0 10px 0 0;
+				position: relative;
+				top: -1px;
+				font-weight: 700;
+				line-height: 1em;
+				font-family: Verdana !important;
+			}
+		}
+	}
+
+
+	// Adjust font-size for specific icons
+	.ish-icon-circle, .ish-icon-circle-empty, .ish-icon-stop, .ish-icon-check-empty-1 {
+		&:before {
+			font-size: 6px !important;
+			position: relative;
+			top: -3px !important;
+		}
+	}
+
+}

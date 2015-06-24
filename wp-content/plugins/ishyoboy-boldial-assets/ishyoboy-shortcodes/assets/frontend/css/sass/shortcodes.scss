@@ -1,0 +1,60 @@
+// Placeholders --------------------------------------------------------------------------------------------------------
+%_rounded-corners	{
+	-moz-border-radius: 2px;
+	-webkit-border-radius: 2px;
+	border-radius: 2px;
+}
+
+%_trans-on {
+	-webkit-transition-duration: .3s;
+	-moz-transition-duration: .3s;
+	-ms-transition-duration: .3s;
+	-o-transition-duration: .3s;
+	transition-duration: .3s;
+}
+%_trans-off {
+	-webkit-transition-duration: 0;
+	-moz-transition-duration: 0;
+	-ms-transition-duration: 0;
+	-o-transition-duration: 0;
+	transition-duration: 0;
+}
+
+%_clearfix {
+	// For modern browsers
+	&:before,
+	&:after {
+		content: " ";
+		display: table;
+	}
+
+	&:after {
+		clear: both;
+	}
+}
+
+
+// Imports -------------------------------------------------------------------------------------------------------------
+@import
+	'ish_row',
+	'ish_button',
+	'ish_box',
+	'ish_headline',
+	'ish_icon',
+	'ish_svg_icon',
+	'ish_icon_button_set',
+	'ish_list',
+	'ish_quote',
+	'ish_skills',
+	'ish_map',
+	'ish_slider',
+	'ish_social_share',
+	'ish_recent_posts',
+	'ish_divider',
+	'ish_tgg_acc',
+	'ish_image',
+	'ish_tabs',
+	'ish_separator',
+	'ish_menu',
+	'ish_table',
+	'ish_pricing_table';

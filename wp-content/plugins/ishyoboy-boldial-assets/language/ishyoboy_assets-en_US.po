@@ -1,0 +1,2828 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: IshYoBoy Boldial Assets\n"
+"POT-Creation-Date: 2014-11-20 17:01+0100\n"
+"PO-Revision-Date: 2014-11-20 17:02+0100\n"
+"Last-Translator: IshYoBoy.com <hello@ishyoboy.com>\n"
+"Language-Team: IshYoBoy.com <hello@ishyoboy.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.10\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;"
+"esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:10
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:21
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:28
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:4
+msgid "Portfolio"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:11
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:12
+msgctxt "portfolio-post"
+msgid "Add New Item"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:13
+msgid "Add New Item"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:14
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:15
+msgid "New Portfolio Item"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:16
+msgid "View Portfolio Item"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:17
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:18
+msgid "No Portfolio Items Found"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:19
+msgid "No Portfolio Items Found In Trash"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:20
+msgid "Parent Portfolio Item"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:22
+msgid "All Portfolio Items"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:39
+msgctxt "URL slug"
+msgid "portfolio"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:68
+msgid "Custom Field Updated."
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:69
+msgid "Custom Field Deleted."
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:70
+msgid "Portfolio Updated."
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:71
+#, php-format
+msgid "Portfolio Restored To Revision From %s"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:72
+#, php-format
+msgid "Portfolio Published. <a href=\"%s\">View Portfolio</a>"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:73
+msgid "Portfolio Saved."
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:74
+#, php-format
+msgid ""
+"Portfolio Submitted. <a target=\"_blank\" href=\"%s\">Preview Portfolio</a>"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:75
+#, php-format
+msgid ""
+"Portfolio Scheduled For: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview Portfolio</a>"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:75
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:76
+#, php-format
+msgid ""
+"Portfolio Draft Updated. <a target=\"_blank\" href=\"%s\">Preview Portfolio</"
+"a>"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:92
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_categories.php:4
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:93
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:94
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:95
+msgid "Popular Portfolio Categories"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:96
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:97
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:98
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:99
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:100
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:101
+msgid "New Portfolio Category"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:102
+msgid "Separate Portfolio Categories with commas"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:103
+msgid "Add or remove Portfolio Category"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:104
+msgid "Choose from most used Portfolio Categories"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:133
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:92
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:93
+msgid "Title"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:134
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:96
+msgid "Author"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:135
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:213
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:80
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:41
+msgid "Categories"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:136
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:94
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:193
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_image.php:56
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_image.php:69
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:74
+msgid "Image"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:137
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:97
+msgid "Date"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/portfolio-post.php:179
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:152
+msgid "Show all"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:7
+msgctxt "post type general name"
+msgid "Slides"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:8
+msgctxt "post type singular name"
+msgid "Slide"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:9
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:10
+msgid "Add New Slide"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:11
+msgid "Edit Slide"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:12
+msgid "New Slide"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:13
+msgid "View Slide"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:14
+msgid "Search Slides"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:15
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:16
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:17
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:24
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:32
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:82
+msgid "Slide"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:18
+msgid "Slides"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:35
+msgctxt "URL slug"
+msgid "slides"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:54
+msgid "Sliders"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:55
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:93
+msgid "Slider"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:56
+msgid "Search Sliders"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:57
+msgid "Popular Sliders"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:58
+msgid "All Sliders"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:59
+msgid "Parent Slider"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:60
+msgid "Edit Slider"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:61
+msgid "Update Slider"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:62
+msgid "Add New Slider"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:63
+msgid "New Slider"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:64
+msgid "Separate Sliders with commas"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:65
+msgid "Add or remove Slider"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:66
+msgid "Choose from most used Sliders"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/cpt/slider-post.php:95
+msgid "Order"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/includes/custom-meta-boxes.php:42
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:4
+msgid "Portfolio Gallery"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/includes/custom-meta-boxes.php:58
+msgid "Color Settings"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/includes/custom-meta-boxes.php:64
+msgid "Background color"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/includes/custom-meta-boxes.php:67
+#: ../ishyoboy-cpt/assets/backend/includes/custom-meta-boxes.php:74
+msgid "Used in Taglines and portfolio Grid overview."
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/includes/custom-meta-boxes.php:71
+msgid "Text color"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/includes/custom-meta-boxes.php:78
+msgid "Masonry size"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/includes/custom-meta-boxes.php:81
+msgid "Used in Masonry Grid overview."
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/includes/custom-meta-boxes.php:84
+msgid "1 x 1"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/includes/custom-meta-boxes.php:85
+msgid "1 x 2"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/includes/custom-meta-boxes.php:86
+msgid "2 x 1"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/includes/custom-meta-boxes.php:87
+msgid "2 x 2"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/includes/ishyo_meta_fields/color_selector.php:6
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:50
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:65
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_list.php:26
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_list.php:33
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:72
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_menu.php:51
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_menu.php:58
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_categories.php:49
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:66
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:74
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:82
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_quote.php:66
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:267
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:273
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:279
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:47
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:60
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:120
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:126
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:132
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_table.php:70
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_table.php:77
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_table.php:84
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_table.php:91
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_table.php:98
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:95
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:101
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:105
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:111
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:107
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:113
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_updates.php:35
+msgid "No Color"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/includes/ishyo_meta_fields/images2.php:17
+#: ../ishyoboy-cpt/assets/backend/includes/ishyo_meta_fields/images2.php:95
+msgid "Delete image"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/includes/ishyo_meta_fields/images2.php:17
+#: ../ishyoboy-cpt/assets/backend/includes/ishyo_meta_fields/images2.php:95
+msgid "Delete"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/includes/ishyo_meta_fields/images2.php:25
+msgid "Add images"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/includes/ishyo_meta_fields/images2.php:26
+#: ../ishyoboy-cpt/assets/backend/includes/ishyo_meta_fields/images2.php:29
+msgid ""
+"Use <strong>[portfolio_gallery]</strong> shortcode in content to display the "
+"gallery."
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/includes/ishyo_meta_fields/images2.php:28
+#: ../ishyoboy-cpt/assets/backend/includes/ishyo_meta_fields/images2.php:180
+msgid "Create Gallery"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/includes/ishyo_meta_fields/images2.php:73
+msgid "Add Portfolio images"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/includes/ishyo_meta_fields/images2.php:75
+msgid "Add to gallery"
+msgstr ""
+
+#: ../ishyoboy-cpt/assets/backend/includes/ishyo_meta_fields/images2.php:181
+msgid ""
+"After setting the gallery images up, use <strong>[portfolio_gallery]</"
+"strong> in content to display them."
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:111
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:118
+msgid "Portfolio page"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:119
+msgid "The page which will serve as Portfolio homepage."
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:126
+msgid "Portfolio Sidebar"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:127
+msgid "Display Sidebar on Portfolio overview and detail pages."
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:134
+msgid ""
+"Choose whether to display the sidebar on the left or on the right side of "
+"the page."
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:142
+msgid ""
+"Select which sidebar will be displayed on Portfolio overview and Portfolio "
+"detail pages."
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:149
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:29
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:29
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:79
+msgid "Animation"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:150
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:38
+msgid "Animation style on mouse over."
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:155
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:33
+msgid "Zoom In"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:156
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:34
+msgid "Zoom In & Rotate"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:157
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:35
+msgid "3D Flip"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:158
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:36
+msgid "3D Cube"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:163 ../ishyoboy-cpt/ishyoboy-cpt.php:174
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:49
+msgid "Text animation on mouse over."
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:168
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:46
+msgid "Vertical"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:169
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:47
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:108
+msgid "Horizontal"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:179
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:59
+msgid "Left"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:180
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:60
+msgid "Right"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:181
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:61
+msgid "Top"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:182
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:62
+msgid "Bottom"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:187
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:64
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:76
+msgid "Direction of the animation on mouse over."
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:192
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:73
+msgid "Title & Category"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:197
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:96
+msgid "Display Filter"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:198
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:105
+msgid "Categories buttons for users to filter the items."
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:203
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:100
+msgid "No filter"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:204
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:101
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:33
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:83
+msgid "Fade"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:205
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:102
+msgid "Fade & Reorganize"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:206
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:103
+msgid "Link to category page"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:211
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:112
+msgid "The title displayed above the filters."
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:216
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:118
+msgid "Items Order"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:217
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:125
+msgid "Which Portfolio items to display first."
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:222
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:122
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:61
+msgid "Latest First"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:223
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:123
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:62
+msgid "Oldest First"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:229
+msgid "Items per page"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:230
+msgid "Number of items to display per page. Set \"-1\" to see all."
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:235
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:147
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:68
+msgid "Columns Count"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:236
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:160
+msgid "Number of columns to display in the Portfolio Grid"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:251
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:164
+msgid "Masonry Layout"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:252
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:171
+msgid "Display items with different heights and widths."
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:257 ../ishyoboy-cpt/ishyoboy-cpt.php:268
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/config.php:39
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_button.php:84
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:140
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:168
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:180
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_categories.php:22
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:22
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:44
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:75
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:94
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:49
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:158
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:169
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:181
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:192
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:203
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:214
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:225
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:236
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:247
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:259
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:93
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:123
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:141
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_table.php:54
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:164
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:169
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:18
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:146
+msgid "No"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:258 ../ishyoboy-cpt/ishyoboy-cpt.php:269
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/config.php:40
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_button.php:85
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:141
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:169
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:181
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_categories.php:21
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:21
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:43
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:74
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:93
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:48
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:157
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:168
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:180
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:191
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:202
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:213
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:224
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:235
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:246
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:258
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:92
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:122
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:140
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_table.php:55
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:165
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:170
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:19
+msgid "Yes"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:262
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:176
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:187
+msgid "Show Categories"
+msgstr ""
+
+#: ../ishyoboy-cpt/ishyoboy-cpt.php:263
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:183
+msgid "Display item category on mouse over."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/includes/theme-plugin-functions.php:380
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/shortcodes_templates/ish_recent_posts.php:562
+msgid "by"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/includes/theme-plugin-functions.php:383
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/shortcodes_templates/ish_recent_posts.php:567
+msgid "in category"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/includes/theme-plugin-functions.php:386
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/shortcodes_templates/ish_recent_posts.php:588
+msgid "tagged as"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/includes/theme-plugin-functions.php:389
+msgid "with"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/includes/theme-plugin-functions.php:390
+msgid "and"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/shortcodes_templates/ish_portfolio.php:192
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/shortcodes_templates/ish_tgg_acc.php:82
+msgid "All"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/shortcodes_templates/ish_portfolio_prev_next.php:57
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_prev_next.php:40
+msgid "&lt; Newer project"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/shortcodes_templates/ish_portfolio_prev_next.php:64
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_prev_next.php:30
+msgid "Older project &gt;"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/shortcodes_templates/ish_recent_posts.php:610
+msgid "Read more"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/config.php:35
+msgid "Use Advanced Global Attributes"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/config.php:45
+msgid "Element ID"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/config.php:48
+msgid ""
+"Use this field to add a unique ID to the element and then refer to it in "
+"your css or javascript file."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/config.php:56
+msgid "Extra CSS Class"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/config.php:59
+msgid ""
+"If you wish to style particular content element differently, use this field "
+"to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/config.php:67
+msgid "Inline CSS styles"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/config.php:70
+msgid "Inline CSS style. Used by advanced HTML users to add custom CSS styles"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/config.php:78
+msgid "Tooltip text"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/config.php:81
+msgid "Adds tooltip to the element"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/config.php:89
+msgid "Tooltip Background Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/config.php:93
+msgid "Change the color of the tooltip background"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/config.php:101
+msgid "Tooltip Text Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/config.php:105
+msgid "Change the color of the tooltip text"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/config.php:115
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_social_share.php:20
+msgid "No Alignment"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/config.php:116
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/config.php:121
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:55
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_quote.php:56
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:103
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_social_share.php:21
+msgid "Align Left"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/config.php:117
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:56
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_quote.php:57
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:104
+msgid "Align Center"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/config.php:118
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/config.php:122
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:57
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_quote.php:58
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:105
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_social_share.php:22
+msgid "Align Right"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/config.php:127
+msgid "No Icon"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_blog_media.php:4
+msgid "Post Media"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_blog_media.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_box.php:34
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_button.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_cf7.php:26
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_divider.php:10
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_embed.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon_button_set.php:33
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_image.php:60
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_list.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:38
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:88
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_menu.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_categories.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_prev_next.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:38
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:104
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_quote.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_separator.php:10
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_sidebar.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:38
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:87
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:71
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:174
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_svg_icon.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_table.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:71
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:146
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:71
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:143
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:9
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_updates.php:6
+msgid "Content"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_blog_media.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_box.php:34
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_button.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_cf7.php:26
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_divider.php:10
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_embed.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon_button_set.php:33
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_image.php:60
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_list.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:38
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:88
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_menu.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_categories.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_prev_next.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:38
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:104
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_quote.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_separator.php:10
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_sidebar.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:38
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:87
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:71
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:174
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_social_share.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_svg_icon.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_table.php:8
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:71
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:146
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:71
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:143
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:9
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_updates.php:6
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_updates.php:61
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_updates.php:69
+msgid "IshYoBoy"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_blog_media.php:9
+msgid "The post media"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_box.php:28
+msgid "Box"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_box.php:33
+msgid "Colored content box"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_box.php:42
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_button.php:52
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_cf7.php:46
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:56
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:116
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_menu.php:34
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_categories.php:39
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_prev_next.php:45
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:199
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:45
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:118
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_svg_icon.php:50
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:105
+msgid "Background Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_box.php:49
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_button.php:59
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_cf7.php:60
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:63
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_list.php:31
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:123
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_menu.php:41
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_categories.php:47
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_prev_next.php:52
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:207
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:277
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:58
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:130
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:111
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_updates.php:32
+msgid "Text Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_button.php:4
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:116
+msgid "Button"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_button.php:17
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_button.php:21
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:172
+msgid "Text on the button"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_button.php:27
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:76
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:179
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_quote.php:22
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_svg_icon.php:73
+msgid "URL"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_button.php:34
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:69
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:160
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:187
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_quote.php:38
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_svg_icon.php:66
+msgid "Size"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_button.php:37
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:190
+msgid "Small"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_button.php:38
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:191
+#: ../ishyoboy-shortcodes/ishyoboy-shortcodes.php:500
+msgid "Medium"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_button.php:39
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:192
+msgid "Big"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_button.php:45
+msgid "Button Alignment"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_button.php:66
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:215
+msgid "Button Icon"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_button.php:69
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:218
+msgid "Choose an icon which will be displayed inside the button."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_button.php:69
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:58
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:20
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_list.php:41
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:155
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:218
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:174
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:179
+#, php-format
+msgid ""
+"To add your own set of icons go to %s, download your custom font and unzip "
+"it in \"ish-plugins/ishyoboy-shortcodes/fontello/\" folder inside the child "
+"theme root."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_button.php:73
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:62
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:223
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:178
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:183
+msgid "Icon alignment"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_button.php:76
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:65
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:226
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:181
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:186
+msgid "Choose alignment for the icon"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_button.php:81
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:29
+msgid "Full-width"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_cf7.php:24
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_cf7.php:28
+msgid "Place Contact Form7"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_cf7.php:32
+msgid "Form title"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_cf7.php:35
+msgid "What text use as form title. Leave blank if no title is needed."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_cf7.php:39
+msgid "Select contact form"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_cf7.php:42
+msgid "Choose previously created contact form from the drop down list."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_cf7.php:53
+msgid "Background Text Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_cf7.php:63
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:110
+msgid "Inherit from parent"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_divider.php:5
+msgid "Divider"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_divider.php:9
+msgid "Empty 25px space"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_embed.php:4
+msgid "Media Embed"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_embed.php:9
+msgid "Vimeo, Youtube, ..."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_embed.php:18
+msgid "Media URL"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_embed.php:22
+msgid "http://"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_embed.php:23
+#, php-format
+msgid ""
+"Vimeo, YouTube, SoundCloud, Instagram, Flickr, Twitter, SlideShare, Spotify, "
+"etc... See %s."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:4
+msgid "Headline"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:17
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:21
+msgid "Headline Text"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:27
+msgid "Headline Size"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:30
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:138
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_quote.php:42
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:119
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:196
+msgid "H1"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:31
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:139
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_quote.php:43
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:120
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:197
+msgid "H2"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:32
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:140
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_quote.php:44
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:121
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:198
+msgid "H3"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:33
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:141
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_quote.php:45
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:122
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:199
+msgid "H4"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:34
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:142
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_quote.php:46
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:123
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:200
+msgid "H5"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:35
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:143
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_quote.php:47
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:124
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:201
+msgid "H6"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:37
+msgid "Choose Headline size"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:41
+msgid "Headline Alignment"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:48
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_quote.php:64
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_separator.php:17
+msgid "Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:55
+msgid "Headline Icon"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:58
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_svg_icon.php:20
+msgid "Choose an icon which will be displayed next to the headline."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:70
+msgid "HTML Element"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:73
+msgid "H"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:74
+msgid "DIV"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_headline.php:76
+msgid ""
+"Choose DIV if the regular headline elements are not suitable due to semantic "
+"or seo reasons."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:4
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:17
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_list.php:38
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:115
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:152
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_svg_icon.php:17
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:171
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:176
+msgid "Icon"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:20
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:155
+msgid "Choose an icon."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:24
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:110
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_svg_icon.php:25
+msgid "Type"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:28
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_svg_icon.php:29
+msgid "Simple"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:29
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_svg_icon.php:30
+msgid "Square"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:30
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_svg_icon.php:31
+msgid "Circle"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:31
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_svg_icon.php:32
+msgid "Hexagon"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:32
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_svg_icon.php:33
+msgid "Hexagon Rounded"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:38
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_svg_icon.php:39
+msgid "Background Glow"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:41
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_svg_icon.php:42
+msgid "No Glow"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:42
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_svg_icon.php:43
+msgid "With Glow"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:44
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_svg_icon.php:45
+msgid "Adds a glow to the background of the icon."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:49
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_categories.php:53
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_prev_next.php:18
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_quote.php:53
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_separator.php:36
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_social_share.php:17
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_svg_icon.php:59
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_updates.php:39
+msgid "Alignment"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon.php:72
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:163
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_svg_icon.php:69
+msgid "Number - icon size in pixels"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon_button_set.php:29
+msgid "Icon/Button Set"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_icon_button_set.php:35
+msgid "Container for a set of inline icons or buttons"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_image.php:30
+msgid "Add image"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_image.php:72
+msgid "Select image from media library."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_image.php:76
+msgid "Image Style"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_image.php:87
+msgid "Image Size"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_image.php:95
+msgid "Stretch to Full-width"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_image.php:102
+msgid "Stretch the image to full width if image is smaller than container."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_image.php:106
+msgid "Image Link"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_image.php:110
+msgid "No Link"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_image.php:111
+msgid "Large Image"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_image.php:112
+msgid "Custom Link"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_image.php:118
+msgid "Link URL"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_image.php:121
+msgid "URL for the image link."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_image.php:126
+msgid "Image Alignment"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_image.php:134
+msgid "Display Image Caption"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_image.php:141
+msgid "Display the image caption if set in its settings."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_list.php:4
+msgid "List"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_list.php:15
+msgid "List Items"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_list.php:19
+msgid "Item"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_list.php:20
+msgid "Please enter the items in an unordered list."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_list.php:24
+msgid "Bullet Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_list.php:41
+msgid "Choose an icon which will be displayed as list icon."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:33
+msgid "Google Map"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:40
+msgid "Google Map with custom locations"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:46
+msgid "Inverted Map Colors"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:49
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:28
+msgid "Regular"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:50
+msgid "Inverted"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:52
+msgid ""
+"Inverted colors add a \"nightly\" effect since dark colors become light and "
+"vice versa."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:56
+msgid "Map Zoom"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:59
+msgid ""
+"Number \"0\" corresponds to a map of the Earth fully zoomed out, and higher "
+"zoom levels zoom in at a higher resolution."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:63
+msgid "Optional Map Height"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:66
+msgid "A number to set the height of the map in pixels. E.g.: \"450\"."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:70
+msgid "Default Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:84
+msgid "Map Location"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:94
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:97
+msgid "Location Title"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:98
+msgid ""
+"It will not be displayed in the Map Location bubble. Serves for better "
+"orientation in the page builder."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:102
+msgid "Location Latitude & Longitude"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:104
+msgid "A, B"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:105
+#, php-format
+msgid ""
+"To get the coordinates of any address use %s or google for \"Address to "
+"Latitude longitude\"."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:105
+msgid "This Page"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:109
+msgid "Location Content"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_map.php:111
+msgid "This is the text displayed in the Map Location bubble."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_menu.php:4
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:40
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:89
+msgid "Navigation"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_menu.php:9
+msgid "Navigation menu"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_menu.php:18
+msgid "Navigation Menu"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_menu.php:22
+msgid "Select a Menu you previously prepared under Appearance -> Menus."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_menu.php:26
+msgid "Menu Depth"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_menu.php:30
+msgid "A number representing the depth of the menu."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_menu.php:48
+msgid "Active Background Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_menu.php:55
+msgid "Active Text Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:18
+msgid "Open on click"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:22
+msgid "Detail Page"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:23
+msgid "Pop-up window with image"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:25
+msgid "Define what to open after a user clicks on a portfolio item."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:42
+msgid "Text Animation"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:55
+msgid "Animation Direction"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:69
+msgid "Display on Mouse Over"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:84
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:45
+msgid "Comma separated list of categories to be displayed."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:88
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:49
+msgid "Exclude categories"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:92
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:53
+msgid "Comma separated list of categories not to be excluded."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:109
+msgid "Filter Title"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:129
+msgid "Items Count"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:132
+msgid ""
+"Number of items to display (when pagination active - number of items per "
+"page). Leave empty or set to -1 to see all items."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:136
+msgid "Pagination"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio.php:143
+msgid ""
+"Display Pagination under the portfolio. If more portfolios are displayed on "
+"one page, ony the first will have pagination displayed."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_categories.php:9
+msgid "List of categories"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_categories.php:18
+msgid "Link"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_categories.php:24
+msgid "Link categories to category pages"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_categories.php:28
+msgid "Display Categories As"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_categories.php:31
+msgid "Text only"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_categories.php:32
+msgid "Buttons"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:18
+msgid "Slideshow"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:25
+msgid "Display images in a slideshow or as separate images."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:35
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:85
+msgid "Choose the transition between slides"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:47
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:96
+msgid "Display buttons to switch between slides"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:52
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:100
+msgid "Navigation Alignment"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:63
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:111
+msgid "Navigation Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:71
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:119
+msgid "Prev/Next buttons"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:77
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:125
+msgid "Display previous and next slide buttons"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:82
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:129
+msgid "Prev/Next Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:90
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:137
+msgid "Autoslide"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:96
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:143
+msgid "Automatically switch the slides every few seconds."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:101
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:147
+msgid "Interval"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:104
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:150
+msgid ""
+"Time interval in seconds before switching the slide. If empty, the default "
+"is \"4\" seconds."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:109
+msgid "Image size"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:117
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:154
+msgid "Maximum Height"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_gallery.php:120
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:157
+msgid "The max. height a slider can have."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_prev_next.php:4
+msgid "Portfolio Links"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_prev_next.php:9
+msgid "Prev/Next Links"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_prev_next.php:25
+msgid "Previous Text"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_prev_next.php:30
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_prev_next.php:40
+#, php-format
+msgid "Leave empty to use the default text: %s"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_portfolio_prev_next.php:35
+msgid "Next Text"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:33
+msgid "Pricing Table"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:45
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_table.php:51
+msgid "Highlight Even Rows"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:55
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_table.php:61
+msgid "Text Alignment"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:63
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_table.php:68
+msgid "Table Background Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:71
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_table.php:75
+msgid "Table Text Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:79
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_table.php:96
+msgid "Table Border Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:100
+msgid "Pricing Row"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:114
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:137
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_updates.php:12
+msgid "Text"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:123
+msgid "Row Text"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:127
+msgid "Row Value"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:134
+msgid "Text Size"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:145
+msgid "Choose Text size"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_pricing_table.php:170
+msgid "Button Text"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_quote.php:4
+msgid "Quote"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_quote.php:15
+msgid "Quote Author"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_quote.php:29
+msgid "Quote content"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_quote.php:33
+msgid "I am a quote. Click edit button to change this text."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_quote.php:41
+msgid "Regular size"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_quote.php:49
+msgid "Choose text size"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:4
+msgid "Recent Blog Posts"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:57
+msgid "Posts Order"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:64
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:128
+msgid "Which posts to display first."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:81
+msgid "Number of columns to display the posts in."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:85
+msgid "Posts Count"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:88
+msgid "Number of posts to display."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:92
+msgid "Skip"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:95
+msgid "Number of posts to skip."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:99
+msgid "Order by"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:103
+#, php-format
+msgid "Change the ordering criteria. Default: \"date\". %s"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:103
+msgid "Read More in WordPress Codex"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:107
+msgid "Post Format"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:111
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:119
+msgid "Filter results by post format."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:115
+msgid "Exclude Post Format"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:123
+msgid "Post IDs"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:126
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:133
+msgid "Filter results by post ID."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:130
+msgid "Exclude Post IDs"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:137
+msgid "Post Tags"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:141
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:149
+msgid "Filter results by post tags."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:145
+msgid "Exclude Post Tags"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:153
+msgid "Show Title Icon"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:164
+msgid "Show Post Media"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:176
+msgid "Show Date"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:198
+msgid "Show Read More Button"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:209
+msgid "Show Author"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:220
+msgid "Show Tags"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:231
+msgid "Show Comments"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:242
+msgid "Show Likes"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:254
+msgid "Show Excerpt"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:265
+msgid "Highlight Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_recent_posts.php:271
+msgid "Highlight Text Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_separator.php:5
+msgid "Separator"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_separator.php:9
+msgid "Horizontal separator"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_separator.php:24
+msgid "Separator Type"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_separator.php:28
+msgid "Bold Line"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_separator.php:29
+msgid "Thin Line"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_separator.php:30
+msgid "Thin & Bold Line"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_separator.php:42
+msgid "Width in %"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_separator.php:45
+msgid "Enter number to set the percentual width. E.g. \"100\" for 100%."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_sidebar.php:4
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_sidebar.php:18
+msgid "Sidebar"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_sidebar.php:9
+msgid "Widgetized sidebar"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_sidebar.php:22
+msgid "Select the sidebar you previously prepared under Appearance -> Widgets."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_sidebar.php:26
+msgid "Widgets Text Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_sidebar.php:33
+msgid "Widgets Link1 Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_sidebar.php:40
+msgid "Widgets Link2 Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_sidebar.php:47
+msgid "Block Elements Background Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_sidebar.php:54
+msgid "Block Elements Text Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:33
+msgid "Skills"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:51
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:124
+msgid "Track Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:64
+msgid "Default Title Position"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:67
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:111
+msgid "Inside"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:68
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:112
+msgid "Outside"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:70
+msgid "This title position will be inherited by all skill bars"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:83
+msgid "Single Skill"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:96
+msgid "Skill Bar"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:100
+msgid "Percentage"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:103
+msgid "Number - skill percentage. E.g: \"90\""
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:107
+msgid "Title Position"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_skills.php:114
+msgid ""
+"Choose only if you want to override the title position set in the parent "
+"container"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:65
+msgid "Slidable"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:73
+msgid "Content slideshows"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_slidable.php:169
+msgid "Single Slide"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_social_share.php:4
+msgid "Social Share Bar"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_social_share.php:8
+msgid "Social"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_svg_icon.php:4
+msgid "SVG Icon"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_svg_icon.php:21
+msgid ""
+"To add your own SVG icons add them in a folder inside \"ish-plugins/ishyoboy-"
+"shortcodes/assets/frontend/images/icon-sets/\" in the child theme root."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_table.php:4
+msgid "Table"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_table.php:15
+msgid "Table Code"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_table.php:46
+msgid ""
+"To add more table rows or columns, switch to \"Text\" tab and edit the HTML "
+"code."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_table.php:82
+msgid "Header Background Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_table.php:89
+msgid "Header Text Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:65
+msgid "Tabs"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:73
+msgid "Tabbed container"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:79
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:186
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:89
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:207
+msgid "Navigation Background Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:86
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:192
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:96
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:213
+msgid "Navigation Text Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:93
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:198
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:219
+msgid "Content Background Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:99
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:204
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:225
+msgid "Content Text Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:105
+msgid "Layout"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:109
+msgid "Vertical - Left Navigation"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:110
+msgid "Vertical - Right Navigation"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:116
+msgid "Vertical Layout"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:120
+msgid "1/3 + 2/3"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:121
+msgid "1/4 + 3/4"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:122
+msgid "1/6 + 5/6"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:123
+msgid "2/3 + 1/3"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:124
+msgid "3/4 + 1/4"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:125
+msgid "5/6 + 1/6"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:126
+msgid "1/2 + 1/2"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:141
+msgid "Single Tab"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:153
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:155
+msgid "Tab Title"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:161
+msgid "Active"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:167
+msgid "Please make sure only one tab is active."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:174
+msgid "Choose an icon which will be displayed next to the tab tile."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:188
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:194
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:200
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tabs.php:206
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:194
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:209
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:215
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:221
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:227
+msgid "Inherit from parent container"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:65
+msgid "Toggle & Accordion"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:79
+msgid "Behavior"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:82
+#: ../ishyoboy-shortcodes/ishyoboy-shortcodes.php:159
+msgid "Toggle"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:83
+#: ../ishyoboy-shortcodes/ishyoboy-shortcodes.php:158
+msgid "Accordion"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:85
+msgid "Accordion allows only one opened item. Toggle allows multiple."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:103
+msgid "Item Background Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:109
+msgid "Item Text Color"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:115
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:191
+msgid "Navigation HTML Element"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:118
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:195
+msgid "Div"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:126
+msgid "HTML element for the titles of all items."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:138
+msgid "Toggle/Accordion Item"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:150
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:152
+msgid "Item Title"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:158
+msgid "Item Categories"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:161
+msgid "Comma separated list of category names to make a the items filterable."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:166
+msgid "Opened by default"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:179
+msgid "Choose an icon which will be displayed next to the Item tile."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/ish_tgg_acc.php:203
+msgid "HTML element for the title of this item."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_column.php:14
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_column.php:30
+msgid "Content Alignment"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:4
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:192
+msgid "Row"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:15
+msgid "Make row as section"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:21
+msgid "Adds bottom padding to the row to make it as a standalone section"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:25
+msgid "Section Type"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:30
+msgid "Full-width with padding"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:31
+msgid "Full-height - Regular"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:32
+msgid "Full-height - Full-width"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:33
+msgid "Full-height - Full-width with padding"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:39
+msgid "Top Decoration"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:42
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:67
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:92
+msgid "No Decoration"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:43
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:68
+msgid "Arrow Outside"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:44
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:69
+msgid "Arrow Inside"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:45
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:70
+msgid "Clouds Outside"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:46
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:71
+msgid "Clouds Inside"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:47
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:72
+msgid "Curtain Outside"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:48
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:73
+msgid "Curtain Inside"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:49
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:74
+msgid "Rounded Outside"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:50
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:75
+msgid "Rounded Inside"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:51
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:76
+msgid "Slope Left"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:52
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:77
+msgid "Slope Left with shadow"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:53
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:78
+msgid "Slope Right"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:54
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:79
+msgid "Slope Right with shadow"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:55
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:80
+msgid "Triangle Outside"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:56
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:81
+msgid "Triangle Inside"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:57
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:82
+msgid "Zigzag"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:59
+msgid "Adds top decoration to the section."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:64
+msgid "Bottom Decoration"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:84
+msgid "Adds bottom decoration to the section."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:89
+msgid "Background Decoration"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:93
+msgid "Glow"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:94
+msgid "Diamonds"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:95
+msgid "Triangles"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:96
+msgid "Squared"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:97
+msgid "Abstract"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:98
+msgid "Stripes"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:100
+msgid ""
+"Adds a glow to the background of the section if no background image is used."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:129
+msgid "Background Opacity"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:132
+msgid ""
+"Number (0 - 100) representing the row opacity in %. 100 - visible, 0 - "
+"invisible."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:137
+msgid "Background Image"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:143
+msgid "Parallax Effect"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:147
+msgid "Static"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:148
+msgid "Dynamic"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:150
+msgid ""
+"Adds parallax effect to the background image. The \"dynamic\" uses easing."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:155
+msgid "Background Repeat"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:158
+msgid "Default"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:159
+msgid "Cover"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:160
+msgid "Contain"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:161
+msgid "No Repeat"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:169
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:218
+msgid "Vertical Columns Align"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:172
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:221
+msgid "Default Alignment"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:174
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:223
+msgid "Middle"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_row.php:199
+msgid "Place content elements inside the row"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_updates.php:14
+msgid ""
+"<p>I am text block. Click edit button to change this text. Lorem ipsum dolor "
+"sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec "
+"ullamcorper mattis, pulvinar dapibus leo.</p>"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_updates.php:61
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_config/shortcodes/vc_updates.php:69
+msgid "Structure"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_params/ish_fontello_icons_selector.php:20
+msgid "IshYoBoy Icons"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_params/ish_fontello_icons_selector.php:62
+msgid "Fontello Icons"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/assets/backend/vc_extend/vc_params/ish_icon_sets_selector.php:54
+msgid "Set"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/ishyoboy-shortcodes.php:152
+msgid "Switch to Page Builder"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/ishyoboy-shortcodes.php:153
+msgid "Switch to WordPress Editor"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/ishyoboy-shortcodes.php:196
+#, php-format
+msgid ""
+"Wrong template for `%s` shortcode. Please make sure the template exists."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/ishyoboy-shortcodes.php:327
+msgid "Missing config file. Please make sure the file exists."
+msgstr ""
+
+#: ../ishyoboy-shortcodes/ishyoboy-shortcodes.php:499
+msgid "Thumbnail"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/ishyoboy-shortcodes.php:501
+msgid "Large"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/ishyoboy-shortcodes.php:502
+msgid "Full Size"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/ishyoboy-shortcodes.php:1149
+msgid "Visual Composer Shortcodes"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/ishyoboy-shortcodes.php:1150
+msgid ""
+"Enable or disable the default Visual Composer shortcodes in IshYoBoy "
+"Pagebuilder"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/ishyoboy-shortcodes.php:1153
+msgid "Enable"
+msgstr ""
+
+#: ../ishyoboy-shortcodes/ishyoboy-shortcodes.php:1154
+msgid "Disable"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/helpers/functions.php:20
+msgid "Widget width:"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/includes/settings_page.php:13
+#: ../ishyoboy-widgets/assets/backend/includes/settings_page.php:38
+msgid "IshYoBoy Twitter Widget Options"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/includes/settings_page.php:13
+msgid "Twitter Options"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/includes/settings_page.php:18
+msgid "Consumer Key"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/includes/settings_page.php:19
+msgid "Consumer Secret"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/includes/settings_page.php:20
+msgid "Access Token"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/includes/settings_page.php:21
+msgid "Access Token Secret"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/dribbble-widget.php:20
+msgid "A widget that displays your latest dribbble images."
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/dribbble-widget.php:52
+msgid "Loading dribbble images..."
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/dribbble-widget.php:102
+msgid "Latest Dribbble Shots"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/dribbble-widget.php:105
+msgid "Follow us on Dribbble"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/dribbble-widget.php:111
+#: ../ishyoboy-widgets/assets/backend/widgets/flickr-widget.php:123
+#: ../ishyoboy-widgets/assets/backend/widgets/recent-posts.php:168
+#: ../ishyoboy-widgets/assets/backend/widgets/twitter-widget.php:112
+msgid "Title:"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/dribbble-widget.php:116
+msgid "Dribble Username e.g. ishyoboy"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/dribbble-widget.php:121
+msgid "Number of images"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/dribbble-widget.php:126
+#: ../ishyoboy-widgets/assets/backend/widgets/flickr-widget.php:143
+msgid "Button Text e.g. Follow us on Flickr"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/flickr-widget.php:20
+msgid "A widget that displays your latest flickr images."
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/flickr-widget.php:113
+msgid "Latest Flicks"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/flickr-widget.php:117
+msgid "Follow us on Flickr"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/flickr-widget.php:128
+msgid "Flickr Username e.g. ishyoboy"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/flickr-widget.php:133
+msgid "Flickr ID e.g. 88944596@N08"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/flickr-widget.php:138
+msgid "Number of images (max 9)"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/recent-posts.php:20
+msgid "A widget which displays a list of your latest posts."
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/recent-posts.php:106
+msgid "No recent posts available"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/recent-posts.php:157
+msgid "Latest Posts"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/recent-posts.php:160
+msgid "Go to Blog"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/recent-posts.php:173
+msgid "Posts type e.g. portfolio, "
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/recent-posts.php:199
+msgid "Number of posts"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/recent-posts.php:204
+msgid "Button Text e.g. Go to Blog"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/recent-posts.php:209
+msgid "Button URL"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/recent-posts.php:215
+msgid "Use images instead of titles"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/twitter-widget.php:20
+msgid "A widget that displays your latest tweets"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/twitter-widget.php:103
+msgid "Latest Tweets"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/twitter-widget.php:106
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/twitter-widget.php:117
+msgid "Twitter Username e.g. ishyoboydotcom"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/twitter-widget.php:122
+msgid "Number of tweets (max 9)"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/twitter-widget.php:127
+msgid "Button Text e.g. Follow us on Twitter"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/twitter-widget.php:132
+msgid "IMPORTANT:"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/twitter-widget.php:132
+#, php-format
+msgid ""
+"Please make sure the access tokens and keys are saved in \"Misc Options\" in "
+"%1$s"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/backend/widgets/twitter-widget.php:132
+msgid "Theme Options"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/frontend/includes/StormTwitter.class.php:63
+#: ../ishyoboy-widgets/assets/frontend/includes/StormTwitter.class.php:174
+msgid "Twitter error"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/frontend/includes/StormTwitter.class.php:154
+msgid "Missing Consumer Key - Check Settings"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/frontend/includes/StormTwitter.class.php:155
+msgid "Missing Consumer Secret - Check Settings"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/frontend/includes/StormTwitter.class.php:156
+msgid "Missing Access Token - Check Settings"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/frontend/includes/StormTwitter.class.php:157
+msgid "Missing Access Token Secret - Check Settings"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/frontend/includes/StormTwitter.class.php:158
+msgid "Missing Twitter Feed Screen Name - Check Settings"
+msgstr ""
+
+#: ../ishyoboy-widgets/assets/frontend/includes/StormTwitter.class.php:177
+msgid "Twitter returned an invalid response. It is probably down."
+msgstr ""
+
+#: ../ishyoboy-widgets/ishyoboy-widgets.php:183
+msgid "Misc Options"
+msgstr ""
+
+#: ../ishyoboy-widgets/ishyoboy-widgets.php:188
+msgid "Twitter Widget"
+msgstr ""
+
+#: ../ishyoboy-widgets/ishyoboy-widgets.php:195
+msgid "API key"
+msgstr ""
+
+#: ../ishyoboy-widgets/ishyoboy-widgets.php:201
+msgid "API secret"
+msgstr ""
+
+#: ../ishyoboy-widgets/ishyoboy-widgets.php:207
+msgid "Access token"
+msgstr ""
+
+#: ../ishyoboy-widgets/ishyoboy-widgets.php:213
+msgid "Access token secret"
+msgstr ""

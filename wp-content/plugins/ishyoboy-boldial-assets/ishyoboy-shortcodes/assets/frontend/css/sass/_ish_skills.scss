@@ -1,0 +1,31 @@
+.ish-sc_skills {
+
+	// General
+
+	&, * {
+		font-weight: 500;
+		font-size: 15px;
+	}
+
+
+	// Single skill
+	.ish-sc_skill {
+
+		// Skill bg
+		.ish-bar-bg {
+			@extend %_rounded-corners;
+			display: block;
+
+			// Skill fg
+			.ish-bar {
+				@extend %_rounded-corners;
+				display: block;
+				padding: 7px 10px;
+				opacity: 0;
+				width: 0;
+				white-space: nowrap;
+			}
+		}
+	}
+
+}

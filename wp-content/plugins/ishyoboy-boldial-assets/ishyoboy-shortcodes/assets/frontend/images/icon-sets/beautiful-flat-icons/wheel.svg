@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="50px" height="50px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<g style="opacity:0.2;">
+	<g>
+		<path style="fill:#231F20;" d="M25,45c-0.829,0-1.5-0.889-1.5-1.984V5.984C23.5,4.889,24.171,4,25,4s1.5,0.889,1.5,1.984v37.031
+			C26.5,44.111,25.829,45,25,45z"/>
+	</g>
+	<g>
+		<path style="fill:#231F20;" d="M43.064,28H6.936C5.866,28,5,27.328,5,26.5S5.866,25,6.936,25h36.129C44.134,25,45,25.672,45,26.5
+			S44.134,28,43.064,28z"/>
+	</g>
+	<g>
+		<path style="fill:#231F20;" d="M37.5,41.561c-0.384,0-0.768-0.146-1.061-0.439L9.879,14.561c-0.586-0.586-0.586-1.535,0-2.121
+			s1.535-0.586,2.121,0L38.561,39c0.586,0.586,0.586,1.535,0,2.121C38.268,41.414,37.884,41.561,37.5,41.561z"/>
+	</g>
+	<g>
+		<path style="fill:#231F20;" d="M11.939,42c-0.384,0-0.768-0.146-1.061-0.439c-0.586-0.586-0.586-1.535,0-2.121l28.561-28.561
+			c0.586-0.586,1.535-0.586,2.121,0s0.586,1.535,0,2.121L13,41.561C12.707,41.854,12.323,42,11.939,42z"/>
+	</g>
+</g>
+<g>
+	
+		<line style="fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;" x1="25" y1="5" x2="25" y2="45"/>
+	
+		<line style="fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;" x1="45" y1="24.5" x2="5" y2="24.5"/>
+	
+		<line style="fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;" x1="39.142" y1="39.143" x2="10.858" y2="10.857"/>
+	
+		<line style="fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-miterlimit:10;" x1="10.858" y1="39.143" x2="39.142" y2="10.857"/>
+</g>
+<g style="opacity:0.2;">
+	<circle style="fill:#231F20;" cx="25" cy="26" r="2"/>
+</g>
+<g>
+	<circle style="fill:#76C2AF;" cx="25" cy="25" r="2"/>
+</g>
+<path style="opacity:0.2;fill:#231F20;" d="M25,9c9.925,0,18,8.074,18,18s-8.075,18-18,18S7,36.926,7,27S15.075,9,25,9 M25,5
+	C12.85,5,3,14.85,3,27s9.85,22,22,22s22-9.85,22-22S37.15,5,25,5L25,5z"/>
+<g>
+	<path style="fill:#4F5D73;" d="M25,7c9.925,0,18,8.074,18,18s-8.075,18-18,18S7,34.926,7,25S15.075,7,25,7 M25,3
+		C12.85,3,3,12.85,3,25s9.85,22,22,22s22-9.85,22-22S37.15,3,25,3L25,3z"/>
+</g>
+</svg>

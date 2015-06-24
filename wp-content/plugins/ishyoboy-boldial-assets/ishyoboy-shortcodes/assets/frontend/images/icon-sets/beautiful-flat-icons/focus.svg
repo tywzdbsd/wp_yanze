@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="50px" height="50px" viewBox="0 0 50 50" style="enable-background:new 0 0 50 50;" xml:space="preserve">
+<g style="opacity:0.2;">
+	<path style="fill:#231F20;" d="M9.5,21C8.671,21,8,20.329,8,19.5v-8C8,10.671,8.671,10,9.5,10h8c0.829,0,1.5,0.671,1.5,1.5
+		S18.329,13,17.5,13H11v6.5C11,20.329,10.329,21,9.5,21z"/>
+</g>
+<g style="opacity:0.2;">
+	<path style="fill:#231F20;" d="M40.5,21c-0.829,0-1.5-0.671-1.5-1.5V13h-6.5c-0.829,0-1.5-0.671-1.5-1.5s0.671-1.5,1.5-1.5h8
+		c0.829,0,1.5,0.671,1.5,1.5v8C42,20.329,41.329,21,40.5,21z"/>
+</g>
+<g style="opacity:0.2;">
+	<path style="fill:#231F20;" d="M40.5,44h-8c-0.829,0-1.5-0.671-1.5-1.5s0.671-1.5,1.5-1.5H39v-6.5c0-0.829,0.671-1.5,1.5-1.5
+		s1.5,0.671,1.5,1.5v8C42,43.329,41.329,44,40.5,44z"/>
+</g>
+<g style="opacity:0.2;">
+	<path style="fill:#231F20;" d="M17.5,44h-8C8.671,44,8,43.329,8,42.5v-8C8,33.671,8.671,33,9.5,33s1.5,0.671,1.5,1.5V41h6.5
+		c0.829,0,1.5,0.671,1.5,1.5S18.329,44,17.5,44z"/>
+</g>
+<g style="opacity:0.2;">
+	<path style="fill:#231F20;" d="M28,31.5h-6c-0.829,0-1.5-0.671-1.5-1.5v-6c0-0.829,0.671-1.5,1.5-1.5h6c0.829,0,1.5,0.671,1.5,1.5
+		v6C29.5,30.829,28.829,31.5,28,31.5z M23.5,28.5h3v-3h-3V28.5z"/>
+</g>
+<polyline style="fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+	9.5,17.5 9.5,9.5 17.5,9.5 "/>
+<polyline style="fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+	32.5,9.5 40.5,9.5 40.5,17.5 "/>
+<polyline style="fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+	40.5,32.5 40.5,40.5 32.5,40.5 "/>
+<polyline style="fill:none;stroke:#FFFFFF;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" points="
+	17.5,40.5 9.5,40.5 9.5,32.5 "/>
+<rect x="22" y="22" style="fill:none;stroke:#C75C5C;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;" width="6" height="6"/>
+</svg>

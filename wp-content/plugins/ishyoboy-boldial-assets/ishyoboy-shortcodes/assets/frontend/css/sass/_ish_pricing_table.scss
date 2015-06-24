@@ -1,0 +1,28 @@
+// Vars
+
+
+.ish-sc_pricing_table {
+	width: 100%;
+
+	// Tables
+	> table {
+		width: 100%;
+	}
+
+	th, tr, td {
+		border: 1px solid transparent;
+		padding: 10px;
+	}
+
+	&.ish-center th, &.ish-center tr, &.ish-center td {
+		text-align: center;
+	}
+
+	&.ish-right th, &.ish-right tr, &.ish-right td {
+		text-align: right;
+	}
+
+	&.ish-left th, &.ish-left tr, &.ish-left td {
+		text-align: left;
+	}
+}

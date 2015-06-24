@@ -1,0 +1,147 @@
+// Vars
+$margin: 10px;
+$size: 30px;
+
+
+.ish-sc_icon {
+
+	// General
+	display: inline-block;
+	vertical-align: top;
+	margin-right: $margin;
+	width: $size;
+	height: $size;
+	line-height: $size;
+
+	/**/position: relative;
+
+	-webkit-transform: translateZ(0);
+	-ms-transform: translateZ(0);
+	transform: translateZ(0);
+
+	// Last child
+	&:last-child {
+		margin-right: 0;
+	}
+
+	> span, > a span {
+		display: table;
+		width: $size;
+		height: $size;
+
+		span {
+			display: table-cell;
+			vertical-align: middle;
+			text-align: center;
+
+
+			// ish-icon
+			&:before {
+				margin-left: 0;
+				margin-right: 0;
+			}
+		}
+	}
+
+
+	// Clickable
+	a {
+		display: block;
+		text-decoration: none !important;
+
+		span span {
+			@extend %_trans-on;
+		}
+	}
+
+
+	// Alignment
+	&.ish-left {
+		float: left;
+	}
+
+	&.ish-center {
+		display: table;
+		margin: 0 auto;
+	}
+
+	&.ish-right {
+		float: right;
+		margin-right: 0;
+		margin-left: $margin;
+
+		&:last-child {
+			margin-left: 0;
+		}
+	}
+
+
+	// type
+	&.ish-simple span span {
+		font-size: $size;
+	}
+
+	&.ish-square span span {
+		@extend %_rounded-corners;
+		font-size: $size / 1.538;
+	}
+
+	&.ish-circle span span {
+		-moz-border-radius: 50%;
+		-webkit-border-radius: 50%;
+		border-radius: 50%;
+		font-size: $size / 2.1;
+	}
+
+	&.ish-hexagon, &.ish-hexagon_rounded {
+
+		svg {
+			position: absolute;
+			width: $size;
+			height: $size;
+			left: 0;
+
+			polygon {
+				// fill
+				@extend %_trans-on;
+			}
+		}
+
+		span {
+			span {
+				z-index: 1;
+				position: relative;
+				font-size: $size / 2.1;
+				display: block;
+			}
+		}
+	}
+
+
+	// Glow effect
+	&.ish-square.ish-glow span span, &.ish-circle.ish-glow span span, &.ish-hexagon.ish-glow span span, &.ish-hexagon_rounded.ish-glow span span {
+		background-repeat: no-repeat;
+		background-position: center center;
+		background-size: auto 100%;
+	}
+
+	&.ish-square.ish-glow span span, &.ish-circle.ish-glow span span {
+		background-image: url('../images/svgs/square-circle-glow-bg.svg');
+	}
+
+	&.ish-hexagon.ish-glow span span {
+		background-image: url('../images/svgs/hexagon-glow-bg.svg');
+	}
+
+	&.ish-hexagon_rounded.ish-glow span span {
+		background-image: url('../images/svgs/hexagon_rounded-glow-bg.svg');
+	}
+
+}
+
+
+// Column alignment
+.wpb_column.ish-right .wpb_wrapper .ish-sc_icon {
+	margin-right: 0;
+	margin-left: $margin;
+}

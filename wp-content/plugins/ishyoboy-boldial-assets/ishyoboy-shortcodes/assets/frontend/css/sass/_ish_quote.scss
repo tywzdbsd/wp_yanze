@@ -1,0 +1,79 @@
+.ish-sc_quote {
+
+	// General
+	margin: 0;
+	position: relative;
+	padding-top: 25px !important;
+	padding-bottom: 25px !important;
+
+	&[class*=" ish-h"] {
+		//font-weight: 500;
+		//font-size: 18px;
+
+	}
+
+
+	// Author
+	cite {
+		display: block;
+		font-style: normal;
+		font-weight: 500;
+		margin-top: 10px;
+		font-size: 12px;
+		line-height: 20px;
+
+		&:before {
+			content: '~ ';
+		}
+	}
+
+
+	// Alignment
+	&.ish-left {
+		border-left: 10px solid;
+		padding-left: 20px;
+
+		cite {
+			text-align: left;
+		}
+	}
+
+	&.ish-center {
+		text-align: center;
+
+		&:before {
+			content: '';
+			border-top: 10px solid;
+			width: 100px;
+			margin-left: -50px;
+			position: absolute;
+			top: 0;
+			left: 50%;
+		}
+
+		/*&:after {
+			content: '';
+			border-top: 10px solid;
+			width: 100px;
+			margin-left: -50px;
+			position: absolute;
+			bottom: 0;
+			left: 50%;
+		}*/
+
+		cite {
+			text-align: center;
+		}
+	}
+
+	&.ish-right {
+		text-align: right;
+		border-right: 10px solid;
+		padding-right: 20px;
+
+		cite {
+			text-align: right;
+		}
+	}
+
+}

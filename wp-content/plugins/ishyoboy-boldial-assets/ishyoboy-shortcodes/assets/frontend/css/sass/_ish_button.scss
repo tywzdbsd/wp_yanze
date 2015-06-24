@@ -1,0 +1,91 @@
+// Vars
+$margin: 5px;
+
+
+.ish-sc_button {
+
+	// General
+	display: inline-block;
+	@extend %_rounded-corners;
+	padding: 6px 10px;
+	text-decoration: none !important;
+	font-weight: 500;
+	font-size: 15px;
+	text-align: center;
+	margin-right: $margin;
+	margin-bottom: 6px;
+	border-bottom: none !important;
+
+	-webkit-transform: translateZ(0);
+	-ms-transform: translateZ(0);
+	transform: translateZ(0);
+
+	// Last child
+	&:last-child {
+		margin-right: 0;
+	}
+
+
+	// Size
+	&.ish-small {
+
+	}
+
+	&.ish-medium {
+		font-size: 20px;
+		padding: 10px 14px;
+	}
+
+	&.ish-big {
+		font-size: 25px;
+		line-height: 25px;
+		padding: 14px 18px;
+		font-weight: 700;
+	}
+
+
+	// Alignment
+	&.ish-left {
+	}
+
+	&.ish-center {
+		display: table;
+		margin: 0 auto;
+	}
+
+	&.ish-right {
+		float: right;
+		margin-right: 0;
+		margin-left: $margin;
+
+		&:last-child {
+			margin-left: 0;
+		}
+	}
+
+
+	// Full width
+	&.ish-fullwidth {
+		width: 100%;
+	}
+
+
+	// With icon
+	.ish-icon {
+		&.ish-right span:before {
+			margin-right: -1px;
+		}
+
+		&.ish-left span:before {
+			margin-left: -1px;
+		}
+	}
+
+}
+
+
+// Column alignment
+.wpb_column.ish-right .wpb_wrapper .ish-sc_button {
+	margin-right: 0;
+	margin-left: $margin;
+}

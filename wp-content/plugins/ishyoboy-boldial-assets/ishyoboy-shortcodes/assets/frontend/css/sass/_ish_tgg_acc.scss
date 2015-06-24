@@ -1,0 +1,75 @@
+// Vars
+$opacity: 0.6;
+
+
+.ish-sc_tgg_acc {
+
+	// General
+
+
+	// Container
+	.ish-sc_tgg_acc_item {
+		margin-bottom: 0 !important;
+	}
+
+	// Title
+	.ish-tgg-acc-title {
+		@extend %_rounded-corners;
+		margin-bottom: 6px !important;
+		padding: 6px 10px;
+		cursor: pointer;
+		@extend %_trans-on;
+
+
+		:before {
+			margin-left: 0 ;
+		}
+
+		i {
+			margin-right: 3px;
+			width: 1em;
+			display: inline-block;
+			text-align: center;
+
+			&:before {
+				width: auto;
+			}
+		}
+
+		.ish-icon.ish-right {
+			:before {
+				margin-right: 0 !important;
+				margin-left: .2em;
+			}
+		}
+	}
+
+	// Content
+	.ish-tgg-acc-content {
+		display: none;
+		padding: 25px 25px 0;
+		margin-bottom: 3px !important;
+		@extend %_rounded-corners;
+	}
+
+	// Open active by default
+	.ish-tgg-acc-title.ish-active + .ish-tgg-acc-content {
+		display: block;
+	}
+
+	// Filter
+	.ish-tgg-acc-filter {
+		display: block;
+		padding-bottom: 5px;
+
+		a {
+			opacity: $opacity;
+			text-decoration: none !important;
+
+			&.ish-active {
+				opacity: 1 !important
+			}
+		}
+	}
+
+}

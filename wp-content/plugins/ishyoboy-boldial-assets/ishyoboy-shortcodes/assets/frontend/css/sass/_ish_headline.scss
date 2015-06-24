@@ -1,0 +1,25 @@
+.ish-sc_headline {
+
+	// General
+	display: block;
+
+
+	// Alignment
+	&.ish-left {
+		text-align: left;
+	}
+
+	&.ish-center {
+		text-align: center;
+	}
+
+	&.ish-right {
+		text-align: right;
+	}
+
+
+	// link inside
+	a {
+	}
+
+}

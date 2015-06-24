@@ -1,0 +1,70 @@
+// Vars
+
+
+.ish-sc_separator {
+
+	// General
+
+
+	// Type
+	&.ish-separator-bold {
+		width: 70px;
+		height: 10px;
+	}
+
+	&.ish-separator-thin {
+		width: 100%;
+		border-top: 1px solid;
+	}
+
+	&.ish-separator-thin-bold {
+		width: 100%;
+		border-top: 1px solid;
+		position: relative;
+
+		&:before {
+			content: '';
+			position: absolute;
+			top: -5px;
+			left: 0;
+			width: 70px;
+			height: 9px;
+			background: red;
+		}
+	}
+
+
+	// Align - center
+	&.ish-separator-bold, &.ish-separator-thin, &.ish-separator-thin-bold {
+		&.ish-center {
+			margin: 0 auto;
+		}
+	}
+
+	&.ish-separator-thin-bold {
+		&.ish-center {
+			&:before {
+				left: 50%;
+				margin-left: -35px;
+			}
+		}
+	}
+
+
+	// Align - right
+	&.ish-separator-bold, &.ish-separator-thin, &.ish-separator-thin-bold {
+		&.ish-right {
+			margin: 0 0 0 auto;
+		}
+	}
+
+	&.ish-separator-thin-bold {
+		&.ish-right {
+			&:before {
+				left: 100%;
+				margin-left: -70px;
+			}
+		}
+	}
+
+}
